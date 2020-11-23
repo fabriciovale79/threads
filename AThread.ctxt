@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AThread
+comment1.params=
+comment1.target=void\ update()
+comment2.params=a\ name\ tg
+comment2.target=AThread(AClass,\ java.lang.String,\ TController)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ callWait()
+comment5.params=
+comment5.target=void\ exitRunningMethod()
+comment6.params=
+comment6.target=void\ enterSyncMethod()
+comment7.params=
+comment7.target=void\ enterSyncAllMethod()
+comment8.params=
+comment8.target=void\ enterNormalMethod()
+numComments=9
